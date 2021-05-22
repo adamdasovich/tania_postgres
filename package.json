@@ -11,10 +11,10 @@
     "start:dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  //"repository": {
-  //  "type": "git",
-  //  "url": "git+https://github.com/adamdasovich/tania_postgres.git"
-  //},
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/adamdasovich/tania_postgres.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
